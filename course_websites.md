@@ -10,6 +10,6 @@ permalink: /course_websites/
 
 | # |       Course Name                      |   Instructor    | Student Name    | Website URL          |
 |---|:--------------------------------------:|:---------------:|:----------------|---------------------:|
-| 1 | Computer Networking - Wired and Wireless Networks and Protocols  | Abolfazl Dianat | Roozbeh Ghazavi |[Ns2 Tools](https://www.isi.edu/nsnam/ns/)|
+| 1 | Ns2 Tools | Abolfazl Dianat | Roozbeh Ghazavi |[Ns2 Tools](https://www.isi.edu/nsnam/ns/)|
 
 
