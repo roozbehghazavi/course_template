@@ -4,7 +4,7 @@ title: Syllabus
 permalink: /syllabus/
 ---
 
-The specific objectives of the course are to help the students: 
+# The specific objectives of the course are to help the students: 
 
 1. Understand the architecture and applications of current and next generation wireless 
 networks: Cellular, WLANs, sensor networks, mobile ad-hoc networks and intermittently 
@@ -33,3 +33,19 @@ optimization.
 
 6. Learn how to evaluate MAC and network protocols using network simulation software 
 tools such as NS-2 or Qualnet.  
+-------------------------------------------------------------------------------------------
+# Grading: 
+Grading  will  be  based  on  the  weighted  average  of  scores  on  assignments,  simulation  projects, 
+quizzes, and exams with the distribution as follows.
+
+1. Assignments: there will be five assignments. These will together count for 25% of the grade.  
+
+2.  Projects:  There  will  also  be  3  simulation  projects.  These  will  together  count  for  15%  of  the 
+grade. These projects are to be worked on and submitted by pairs of students working together. 
+
+3. Midterm Exam: this exam will count for 30% of the grade. 
+
+4. Final Exam: this exam will count for 30% of the grade.  
+Grades will be based on absolute scores, not the relative distribution of scores (i.e., there will be no “curve”). A raw score of 90 or above is guaranteed an A. A raw score of 80 or above is 
+guaranteed at least a B. A raw score of 70 or above is guaranteed at least a
+C.  
