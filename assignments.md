@@ -1,19 +1,18 @@
 ---
-layout: page
-title: Assignments
-permalink: /assignments/
+type: assignment
+date: 20xx-xx-xxTx:xx:xx+4:30
+title: <Assignment title (e.x. Assignment #1>
+
+# optinal
+pdf: /static_files/assignments/assign_01.pdf
+
+# optinal
+solutions: /static_files/assignments/assign_01_solutions.pdf
+
+# optional
+attachment: /static_files/assignments/assign_01_attachment.zip
+
+# optional
+# set it to true if you don't want to this assignment appear in the announcements section
+hide_from_announcments: false
 ---
-affarin
-<ul id="archive">
-{% for asg in site.assignments reversed %}
-      <li class="archiveposturl" style="background: transparent">
-        <span><a href="{{ asg.url | prepend: site.baseurl}}">{{ asg.title }}</a></span>
-<strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right">
-<a title="Download problems (pdf)" href="{{ asg.pdf | prepend: site.baseurl }}"><i class="fas fa-file-pdf"></i></a> 
-{% if asg.attachment %}
-&nbsp; <a title="Download attachments (zip)" href="{{ asg.attachment | prepend: site.baseurl }}"><i class="fas fa-file-archive"></i></a>
-{% endif %}
-</strong> 
-      </li>
-{% endfor %}
-</ul>
