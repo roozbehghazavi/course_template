@@ -3,7 +3,7 @@ layout: page
 title: Assignments
 permalink: /assignments/
 ---
-affarin
+You can download the assignments here (in PDF format). Also check out assignment’s pages for any additional info.
 <ul id="archive">
 {% for asg in site.assignments reversed %}
       <li class="archiveposturl" style="background: transparent">
