@@ -4,7 +4,7 @@ course_name: Introduction to Wireless Networks
 course_description: " Wireless networking is one of the fastest growing segments of the computer industry. Every electronic device seems capable of wireless connections these days: computers, handhelds, cell phones, and even digital cameras are all capable of transmitting without a tether. To many people, those wireless connections are nothing short of technical wizardry. This course will remove the mystery and give you a thorough understanding of this fascinating and lucrative technology. "
 course_semester: "Fall 2019"
 description: |
-    Instructor: Zhila Sadati
+    Instructor: Abolfazl Dianat
 
 message: #Please register to our Google <a href="https://groups.google.com/forum/#!forum/gp-id">groups page</a> to get course notifications via email.
 baseurl: "/course_template" # the subpath of your site, e.g. /blog/
