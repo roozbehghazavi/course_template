@@ -1,7 +1,10 @@
 # Site settings
 title: Iran University of Science and Technology
-course_name: Some Course Title
-course_description: Course description.
+course_name: Introduction to Wireless Networks
+course_description: هدف از اين درس اين است که دانشجويان درک مناسبي از معماري شبکههاي بي سيم پيدا نموده و نيز با نحوه
+عملکرد اين شبکهها آشنا شوند. در همين راستا علاوه بر مفاهيم پايه تئوري، دانشجويان بايستي عملا با اين
+شبکهها و تکنولوژي هاي متعدد مربوطه آشنا شوند. علاوه بر اين دانشجويان اين درس با انجام پروژه فرصت
+يادگيري عميق يکي از مباح مرتبط با درس را خواهند داشت.
 course_semester: "Fall 2019"
 description: |
     Instructor: Zhila Sadati
