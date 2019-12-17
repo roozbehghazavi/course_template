@@ -10,6 +10,6 @@ permalink: /course_websites/
 
 | # |       Course Name                      |   Instructor    | Website URL  |
 |---|:--------------------------------------:|:---------------:|:---------------------:|
-| 1 | Ns2 Tools | Abolfazl Dianat |[Ns2 Tools](https://www.isi.edu/nsnam/ns/)|
+| 2 | Ns2 Tools | Abolfazl Dianat |[Ns2 Tools](https://www.isi.edu/nsnam/ns/)|
 
 
