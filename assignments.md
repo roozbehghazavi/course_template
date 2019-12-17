@@ -4,6 +4,7 @@ title: Assignments
 permalink: /assignments/
 ---
 You can download the assignments here (in PDF format). Also check out assignment’s pages for any additional info.
+
 *[Wireless Network Online Exam](https://study.com/academy/exam/topic/wireless-networking.html)
 <ul id="archive">
 {% for asg in site.assignments reversed %}
