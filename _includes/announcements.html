@@ -7,7 +7,7 @@
         {% assign events_to_show = events_to_show | push: e %}
     {% endunless %}
 {% endfor %}
-hi
+You can check new events in <a href="https://roozbehghazavi.github.io/course_template/lectures/">Lectures</a> 
 {% assign all_events = events_to_show | concat: site.announcements %}
 {% assign all_events_sorted = all_events | sort: 'date' | reverse %}
 
